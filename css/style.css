@@ -1,3 +1,27 @@
+
 body {
     background: rgba(192, 105, 105, 0.589);
+    margin-left: 30px;
+    margin-right: 200px;
 }
+
+header {
+    margin-top: 50px;
+}
+
+h1 {
+    color: red;
+    font-family: fantasy
+}
+
+h2{
+    font-family: fantasy;
+    }
+
+    p {
+        font-size: 18px; 
+    }
+
+    img {
+        margin-bottom: 20px;
+    }
